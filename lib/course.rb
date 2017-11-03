@@ -1,7 +1,7 @@
 class Course
 
   #Variables
-  attr_accessor :titile, :schedule, :Description
+  attr_accessor :title, :schedule, :Description
   @@all = []
 
   #Methods
